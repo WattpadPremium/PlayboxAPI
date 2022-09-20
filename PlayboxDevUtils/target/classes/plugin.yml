@@ -1,6 +1,0 @@
-name: UtilsPlugin
-main: club.playbox.UtilsPlugin
-version: 1.0
-commands:
-  dsm-test:
-softdepend: [ProtocolLib]
